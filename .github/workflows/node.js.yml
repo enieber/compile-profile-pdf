@@ -36,7 +36,9 @@ jobs:
         tag_name: ${{ github.ref }}
       env:
         GITHUB_TOKEN: ${{ github.token }
-    - uses: actions/upload-artifact@v2
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@v2
       with:
-        name: profile pdf
-        path: profile.pdf
+       name: my-artifact
+       path: "./profile.pdf" 
+       upload_url: ${{ steps.create_release.outputs.upload_url }}
