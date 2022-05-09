@@ -32,8 +32,8 @@ jobs:
       with:
         draft: false
         prerelease: false
-        release_name: profile-${{ github.ref }}
-        tag_name: ${{ github.ref }}
+        release_name: profile-${{ github.sha }}
+        tag_name: profile-${{ github.sha }}
       env:
         GITHUB_TOKEN: ${{ github.token }}
     - name: Upload Artifacts
