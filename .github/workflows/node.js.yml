@@ -25,20 +25,9 @@ jobs:
         cache: 'npm'
     - run: npm i
     - run: npm start
-    
-    - name: release
-      uses: actions/create-release@v1
-      id: create_release
-      with:
-        draft: false
-        prerelease: false
-        release_name: profile-${{ github.sha }}
-        tag_name: profile-${{ github.sha }}
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
+        
     - name: Upload Artifacts
       uses: actions/upload-artifact@v2
       with:
        name: my-artifact
        path: "./profile.pdf" 
-       upload_url: ${{ steps.create_release.outputs.upload_url }}
