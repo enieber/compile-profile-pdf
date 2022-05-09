@@ -35,7 +35,7 @@ jobs:
         release_name: profile-${{ github.ref }}
         tag_name: ${{ github.ref }}
       env:
-        GITHUB_TOKEN: ${{ github.token }
+        GITHUB_TOKEN: ${{ github.token }}
     - name: Upload Artifacts
       uses: actions/upload-artifact@v2
       with:
