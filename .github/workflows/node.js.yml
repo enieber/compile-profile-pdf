@@ -26,10 +26,16 @@ jobs:
     - run: npm i
     - run: npm start
     
-    - uses: MCJack123/ghaction-generate-release-hashes@v1
+    - name: release
+      uses: actions/create-release@v1
+      id: create_release
       with:
-        hash-type: sha1
-        file-name: profile.pdf
+        draft: false
+        prerelease: false
+        release_name: profile-${{ github.ref }}
+        tag_name: ${{ github.ref }}
+      env:
+        GITHUB_TOKEN: ${{ github.token }
     - uses: actions/upload-artifact@v2
       with:
         name: profile pdf
