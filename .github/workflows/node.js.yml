@@ -26,22 +26,11 @@ jobs:
     - run: npm i
     - run: npm start
     
-    - name: release
-      uses: actions/create-release@v1
-      id: create_release
+    - uses: MCJack123/ghaction-generate-release-hashes@v1
       with:
-        draft: false
-        prerelease: false
-        release_name: new-profile
-        tag_name: ${{ github.ref }}
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
-        
-    - name: Upload Artifacts
-      uses: actions/upload-artifact@v2
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
+        hash-type: sha1
+        file-name: profile.pdf
+    - uses: actions/upload-artifact@v2
       with:
-       name: my-artifact
-       path: "./profile.pdf"
-       upload_url: ${{ steps.create_release.outputs.upload_url }}
+        name: profile pdf
+        path: profile.pdf
