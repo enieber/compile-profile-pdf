@@ -34,7 +34,6 @@ jobs:
         prerelease: false
         release_name: new-profile
         tag_name: ${{ github.ref }}
-        body_path: CHANGELOG.md
       env:
         GITHUB_TOKEN: ${{ github.token }}
         
