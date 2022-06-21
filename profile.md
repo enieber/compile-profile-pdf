@@ -33,9 +33,16 @@ Software Developer with experiences with develop mobile, frontend, backend and c
 
 ## Experience
 
+### Frontend Developer at Cognizant
+
+**01/2022**
+
+Developer frontend aplication with rules of crop science in pharmaceutical company. Using typescript to create microfronends and unit test. 
+
+
 ### Backend Developer at Cognizant
 
-**01/2021**
+**01/2021 - 01/2022**
 
 Developer aplication to bot framework to response in Whatsapp chat in telcom company. Using typescript to develop modules with unit test, and e2e test. I started created e2e test automatication using cypress and after I helper the QA of team automate and save in pdf evidencies of e2e test. I developed a cli to help develop and integrate sistems to run using docker-compose in develop evironment.
 
