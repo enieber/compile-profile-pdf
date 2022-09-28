@@ -4,7 +4,7 @@ Software Developer with experiences with develop mobile, frontend, backend and c
 
 ## Contents
 
-- [Blog in PT-BR](https://devboladao.com.br)
+- [Blog in PT-BR](https://olha-oque-fiz-bcljuaxc6-enieber.vercel.app)
 - [Youtube videos](https://www.youtube.com/user/eniebercunha)
 - [Github page](https://github.com/enieber)
 
