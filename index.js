@@ -6,3 +6,10 @@ markdownpdf()
   .to("profile.pdf", function () {
     console.log("Done")
   })
+
+
+markdownpdf()
+  .from("profile-pt.md")
+  .to("profile-pt.pdf", function () {
+    console.log("Done")
+  })
