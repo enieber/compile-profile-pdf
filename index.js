@@ -11,6 +11,6 @@ markdownpdf()
 
 markdownpdf()
   .from("profile-pt.md")
-  .to("profile-pt.pdf", function () {
-    console.log("Done")
+  .to("profilept.pdf", function () {
+    console.log("Done pt")
   })
