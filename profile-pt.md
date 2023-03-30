@@ -10,27 +10,26 @@ Desenvolvedor de software com experiência em desenvolvimento para mobile, front
 
 ## Habilidades
 
--js
--java
-- texto datilografado
--kotlin
+- javascript
+- java
+- typescript
+- kotlin
 - php
 - wordpress
 - shopify
-- reagir
+- react
 - react-native
 - nextjs
-- cipreste
-- janela de encaixe
+- cypress
+- docker
 - docker-compose
 - nginx
 - nodejs
 - linux
 - angularjs
-- ci/cd (heroku, ações github, gitlab, pipeline aws)
+- ci/cd (heroku, github actions, gitlab, aws pipeline)
 - aws
-- ferrugem
-
+- rust
 
 ## Experiência
 
@@ -84,50 +83,50 @@ Entrei na empresa para auxiliar no desenvolvimento de um produto web que escanea
   Como primeiro emprego na área de desenvolvimento de software, comecei como desenvolvedor front-end para criar a parte web do ERP feito para desktop. Angular 1.5 foi usado para criar as diretivas e foi para o front-end se conectar com uma API escrita em Java. Depois de alguns meses, comecei a trabalhar no aplicativo android onde era possível rastrear um pedido e fazer novos pedidos online ou offline. O aplicativo foi escrito em java e usou libs como um retrofit para se conectar à API em Java e o SQLite também foi usado para salvar dados offline.
  
   
- ## Freelances
+ ## Projetos
+
+## Autônomos
  
- ### Contrato de plano telecom
+  ### Contrato de plano telecom
  
- In this project I created an list of plans to select and started contract services of telecon. In this project is possible list plans of company, select the plans, enter with user data and select location to vialbility or not to installation of service selected. This project is build with nextjs, google api, zip api and context api to manage states.
+  Neste projeto criei uma lista de planos para selecionar e iniciar a contratação de serviços de telecon. Neste projeto é possível listar as plantas da empresa, selecionar as plantas, entrar com os dados do usuário e selecionar o local para viabilizar ou não a instalação do serviço selecionado. Este projeto é construído com nextjs, google api, zip api e context api para gerenciar estados.
 
 ### Adicionar Purchase em aplicativo
 
-This project was need add premium content to version the app. The app has created in react-native and my responsability was add purchase in app and make upload to google play store.
+Este projeto precisava adicionar conteúdo premium para a versão do aplicativo. O aplicativo foi criado em react-native e minha responsabilidade foi adicionar a compra no aplicativo e fazer o upload para a Google Play Store.
 
-### Customização de plugin para Shopify
+### Customização do plugin para Shopify
 
-This project was necessary change plugin and fix some bugs the plugin js in store. The store was created using Shopify builder and some plugins and my responsability was create and mantainer some features in store using js and jquery. This project was contracted of agencie of Australian.
+Este projeto foi necessário alterar o plugin e corrigir alguns bugs do plugin js na loja. A loja foi criada usando o construtor Shopify e alguns plugins e minha responsabilidade foi criar e manter alguns recursos na loja usando js e jquery. Este projeto foi contratado pela agência australiana.
 
-### Connect Wordpress page with custon CRM
+### Conecte a página do Wordpress ao CRM personalizado
 
-This project was necessary add call to CRM when download file and visite pages site. This project used custon plugins in wordpress in php and js.
+Este projeto foi necessário adicionar chamada ao CRM ao baixar o arquivo e visitar as páginas do site. Este projeto utilizou plugins personalizados em wordpress em php e js.
 
-### Teacher js
+### Professor js
 
-**2018 and 2020**
+**2018 e 2020**
 
-I was teacher js using store in shopify and react-native app.
+Eu era o professor js usando a loja no app shopify e react-native.
 
-### Create course of Started in software develop
+### Criar curso de Iniciado em desenvolvimento de software
 
 **2018**
 
-I created the course of initiate in software development with games to young.
+Criei o curso de iniciação em desenvolvimento de software com jogos para jovens.
 
-### Create course the PHP the rigth way
+### Crie curso o PHP da maneira certa
 
-I created course to explain how to programing php with good practice.
+Criei curso para explicar como programar php com boas práticas.
 
-## Formation
+## Formação
 
-### Federal Institute of Education, Science and Technology by Mato Grosso 
+### Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso
 
-#### Degree Name Computer Technician Field Of Study Software Developer 
+#### Nome do Grau Técnico em Informática Área de Estudo Desenvolvedor de Software
 
-**Dates attended or expected graduation 2012 – 2015**
+** Datas em que frequentou ou formatura prevista 2012 - 2015 **
 
-Activities and Societies: I learned a lot about informatics in general. I developed a project at the end of the ﬁrst year of the course to unite all the codes created throughout the year. I participated in Latinoware 2014 and had contact with the world of open source development. At the end of the course we made an institutional website for the computer course and a monograph. The site was developed in Joomla and deployed in a free hosting service. 
+Aprendi muito sobre informática em geral. Desenvolvi um projeto no final do primeiro ano do curso para unir todos os códigos criados ao longo do ano. Participei da Latinoware 2014 e tive contato com o mundo do desenvolvimento open source. Ao final do curso fizemos um site institucional do curso de informática e uma monografia. O site foi desenvolvido em Joomla e implantado em um serviço de hospedagem gratuito.
 
-I developed some educational and scientiﬁc research projects. Like teaching music using violin and viola. An electronic waste recycling project and I wrote a java code to read barcode.
-
-
+Desenvolvi alguns projetos pedagógicos e de investigação científica. Como ensinar música usando violino e viola. Um projeto de reciclagem de lixo eletrônico e escrevi um código java para ler código de barras.
