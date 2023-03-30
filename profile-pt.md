@@ -1,99 +1,100 @@
 # Enieber Cunha
 
-Software Developer with experiences with develop mobile, frontend, backend and create tools to help peoples.
+Desenvolvedor de software com experiência em desenvolvimento para mobile, frontend, backend e criação de ferramentas para ajudar pessoas.
 
-## Contents
+## Conteúdo
 
-- [Blog in PT-BR](https://olha-oque-fiz.vercel.app/)
-- [Youtube videos](https://www.youtube.com/user/eniebercunha)
-- [Github page](https://github.com/enieber)
+- [Blog em PT-BR](https://olha-oque-fiz.vercel.app/)
+- [Vídeos do Youtube](https://www.youtube.com/user/eniebercunha)
+- [Página do Github](https://github.com/enieber)
 
-## Skills
+## Habilidades
 
-- js
-- java
-- typescript
-- kotlin
+-js
+-java
+- texto datilografado
+-kotlin
 - php
 - wordpress
 - shopify
-- react
+- reagir
 - react-native
 - nextjs
-- cypress
-- docker
+- cipreste
+- janela de encaixe
 - docker-compose
 - nginx
 - nodejs
 - linux
 - angularjs
-- ci/cd (heroku, github actions, gitlab, aws pipeline)
+- ci/cd (heroku, ações github, gitlab, pipeline aws)
 - aws
-- rust
+- ferrugem
 
 
-## Experience
+## Experiência
 
-### Frontend Developer at Cognizant
+### Desenvolvedor front-end na Cognizant
 
 **01/2022**
 
-Developer frontend aplication with rules of crop science in pharmaceutical company. Using typescript to create microfronends and unit test. 
+Desenvolvedor de aplicação frontend com regras de agrociência em empresa farmacêutica. Usando typescript para criar microfrontends e teste de unidade.
 
 
-### Backend Developer at Cognizant
+### Desenvolvedor Backend na Cognizant
 
 **01/2021 - 01/2022**
 
-Developer aplication to bot framework to response in Whatsapp chat in telcom company. Using typescript to develop modules with unit test, and e2e test. I started created e2e test automatication using cypress and after I helper the QA of team automate and save in pdf evidencies of e2e test. I developed a cli to help develop and integrate sistems to run using docker-compose in develop evironment.
+Aplicação de desenvolvedor para framework de bot para resposta em chat Whatsapp em empresa de telcom. Usando o typescript para desenvolver módulos com teste de unidade e teste e2e. Comecei a criar automação de teste e2e usando cypress e depois ajudei o QA da equipe a automatizar e salvar em pdf as evidências do teste e2e. Desenvolvi um cli para ajudar a desenvolver e integrar sistemas para rodar usando docker-compose em ambiente de desenvolvimento.
 
-### Android Developer at Cognizant 
+### Desenvolvedor Android na Cognizant
 
 **05/2020 - 11/2020**
 
-Developer aplication mobile to android plataform using kotlin in bank company. In this project I self-age responsibility to mantainer and develop new features to app using modules android, unit test and acessibility test. The develop need pass to security test and CI/CD pipeline.
+Desenvolvedor de aplicativo mobile para plataforma android utilizando kotlin em empresa bancária. Neste projeto assumo a responsabilidade de manter e desenvolver novas funcionalidades para o app utilizando os módulos android, teste unitário e teste de acessibilidade. O desenvolvimento precisa passar no teste de segurança e no pipeline de CI/CD.
 
-### Mobile  Developer at StartSe
+### Desenvolvedor Mobile na StartSe
 
 **09/2019 - 02/2020**
 
- Development of a web application that gathers all user data in one place, made in reatjs and authenticated by another application using OAuth. An API made on nodes was also used to capture the data of the logged user. Register and develop an application that allows or uses all products offered by StartSe. Follow courses, events, and missions acquired by the user. Joining an Alumni community ends a mission. Follow news posted on the StartSe platform. This application was developed in react-native using notifications with OneSignal for notifications, to obtain interaction flows in real-time and connected with an API node.
+  Desenvolvimento de uma aplicação web que reúne todos os dados do usuário em um só lugar, feitos em reatjs e autenticados por outra aplicação utilizando OAuth. Uma API feita em nós também foi utilizada para capturar os dados do usuário logado. Cadastre-se e desenvolva um aplicativo que permita ou utilize todos os produtos oferecidos pela StartSe. Siga cursos, eventos e missões adquiridos pelo usuário. Juntar-se a uma comunidade de ex-alunos encerra uma missão. Acompanhe as notícias publicadas na plataforma StartSe. Este aplicativo foi desenvolvido em react-native usando notificações com OneSignal para notificações, para obter fluxos de interação em tempo real e conectado a um nó API.
 
-### Lead  Client  App  Developer at EuSouElliot 
+### Desenvolvedor líder de aplicativos de cliente na EuSouElliot
 
 **01/2019 - 09/2019**
 
-Development of an initial structure for the creation of the PWA version of the app, to track the transactions made by the app and to monitor the price variation of cryptocurrencies.  This project was done using Reactjs and styled components. Improvement and development of the application, where it was possible to make a purchase and sale of cryptocurrencies, in addition to monitoring your purchases it was possible to view news related to cryptocurrencies. This app used react-native, styled-component and connected to an Rest API.
+Desenvolvimento de uma estrutura inicial para a criação da versão PWA do app, para rastrear as transações realizadas pelo app e monitorar a variação de preço das criptomoedas. Este projeto foi feito usando Reactjs e componentes estilizados. Aprimoramento e desenvolvimento do aplicativo, onde era possível realizar compra e venda de criptomoedas, além de acompanhar suas compras era possível visualizar notícias relacionadas a criptomoedas. Este aplicativo usou react-native, styled-component e conectado a uma API Rest.
 
-### Mobile  Software  Developer at Multiware  Tecnologia
+### Desenvolvedor de Software Mobile na Multiware Tecnologia
 
 **08/2016 - 01/2019**
 
-Initially among the company to improve the Android application, which uses the connection to a specific server for each group of users, it is possible to manage applications, view and renew slips for customers, manage feasibility, manage customer data and view metrics to execute decisions. This application was started in java and was activated again in native mode for use on iOS. It was controlled by redux actions, both the logical part like saving a new ticket in the offline case database and later synchronized  and  the  screen  navigation  part  like  logged in  and  moved. Help  the  team  and  others  to  develop  through  PHP  quick courses,  js  and other  skills. The idea and development of a new product to facilitate the customer of the providers reached by TopSapp to open and monitor a case called problems with services provided by the proven company also facilitates access to the financial part of the payment of debts. This application was made in a native version and was re-approved as a basis to recreate an application for each version when the number of applications published on Google  Play  and  Playstore  was  over  30. 
+Inicialmente entre a empresa para aprimorar o aplicativo Android, que utiliza a conexão com um servidor específico para cada grupo de usuários, é possível gerenciar aplicativos, visualizar e renovar boletos para clientes, gerenciar viabilidade, gerenciar dados de clientes e visualizar métricas para executar decisões . Este aplicativo foi iniciado em java e foi ativado novamente no modo nativo para uso no iOS. Era controlado por ações redux, tanto a parte lógica como salvar um novo ticket no banco de dados de casos off-line e posteriormente sincronizado quanto a parte de navegação na tela como logado e movido. Ajude a equipe e outros a se desenvolver através de cursos rápidos de PHP, js e outras habilidades. A ideia e desenvolvimento de um novo produto para facilitar o cliente dos provedores alcançados pela TopSapp a abrir e acompanhar um caso chamado problemas com serviços prestados pela empresa comprovada também facilita o acesso à parte financeira do pagamento de dívidas. Este aplicativo foi feito em uma versão nativa e foi reaprovado como base para recriar um aplicativo para cada versão quando o número de aplicativos publicados no Google Play e Playstore fosse superior a 30.
 
-### Front  End  Developer at JMJ Sistemas  e  Consultoria
+### Desenvolvedor Front End na JMJ Sistemas e Consultoria
 
 **01/2016 - 03/2016**
 
-I joined the company to assist in the development of a web product that scanned the attendance of Unimed plans. In the project there was a Rest API in java and the entire front-end was in angular 1.5. 
+Entrei na empresa para auxiliar no desenvolvimento de um produto web que escaneava o atendimento dos planos Unimed. No projeto havia uma API Rest em java e todo o front-end estava em angular 1.5.
 
-### Front  End  Developer at MBoss Tecnologia
+### Desenvolvedor front-end na MBoss Tecnologia
 
 **04/2015 - 01/2016**
 
- As a first job in the development software area, I started as a front end developer to create the web part of the ERP made for desktop. Angular 1.5 was used to create the directives and it was for the front end to connect with an API written in Java. After a few months, I started working on the android application where it was possible to track an order and place new orders online or offline. The app was written in java and used libs as a retrofit to connect to the API in Java and SQLite was also used to save data offline.
+  Como primeiro emprego na área de desenvolvimento de software, comecei como desenvolvedor front-end para criar a parte web do ERP feito para desktop. Angular 1.5 foi usado para criar as diretivas e foi para o front-end se conectar com uma API escrita em Java. Depois de alguns meses, comecei a trabalhar no aplicativo android onde era possível rastrear um pedido e fazer novos pedidos online ou offline. O aplicativo foi escrito em java e usou libs como um retrofit para se conectar à API em Java e o SQLite também foi usado para salvar dados offline.
  
- ## Freelance projects
+  
+ ## Freelances
  
- ### Contrate Telecon Plan
+ ### Contrato de plano telecom
  
  In this project I created an list of plans to select and started contract services of telecon. In this project is possible list plans of company, select the plans, enter with user data and select location to vialbility or not to installation of service selected. This project is build with nextjs, google api, zip api and context api to manage states.
 
-### Add In-App Purchase
+### Adicionar Purchase em aplicativo
 
 This project was need add premium content to version the app. The app has created in react-native and my responsability was add purchase in app and make upload to google play store.
 
-### Custon plugin store in Shopify
+### Customização de plugin para Shopify
 
 This project was necessary change plugin and fix some bugs the plugin js in store. The store was created using Shopify builder and some plugins and my responsability was create and mantainer some features in store using js and jquery. This project was contracted of agencie of Australian.
 
