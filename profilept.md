@@ -32,10 +32,15 @@ Desenvolvedor de software com experiência em desenvolvimento para mobile, front
 - rust
 
 ## Experiência
+### Desenvolvedor de Software
+
+**04/2023**
+
+Desenvolver solução para software LibreSign, mantendo serviços rodando em Nextcloud.
 
 ### Desenvolvedor front-end na Cognizant
 
-**01/2022**
+**01/2022 -  03/2023**
 
 Desenvolvedor de aplicação frontend com regras de agrociência em empresa farmacêutica. Usando typescript para criar microfrontends e teste de unidade.
 
