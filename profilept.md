@@ -1,6 +1,6 @@
 # Enieber Cunha
 
-Desenvolvedor de software com experiência em desenvolvimento para mobile, frontend, backend e criação de ferramentas para ajudar pessoas.
+Sou um desenvolvedor mobile com experiência em desenvolvimento com java react-native e android. Atuo como desenvolvedor fullstack em diversos projetos de código aberto e software livre.Sou um desenvolvedor mobile com experiência em desenvolvimento com java react-native e android. Atuo como desenvolvedor fullstack em diversos projetos de código aberto e software livre.
 
 ## Conteúdo
 
